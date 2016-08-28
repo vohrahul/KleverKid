@@ -1,0 +1,22 @@
+//using System;
+
+//namespace Jobspire
+//{
+//    public class KleverKidChallange
+//    {
+//        /// <summary>
+//        /// Function that takes an input "Name" as string and generates a random number between 6 and 15 and returns "Name GeneratedNumber". 
+//        /// e.g. If Input is "Rahul", it could return "Rahul 11"
+//        /// </summary>
+//        /// <param name="name">Alphanumeric string. e.g. Rahul</param>
+//        /// <returns>"Name GeneratedNumber" e.g. Rahul 11</returns>
+//        public string GenerateRandom(string Name)
+//        {
+//            int start = 6;
+//            int end = 15;
+//            Random rnd = new Random();
+//            int random_number = rnd.Next(start, end);
+//            return Name + " " + random_number.ToString();
+//        }
+//    }
+//}
